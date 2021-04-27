@@ -1,0 +1,11 @@
+
+.RoomSingle-info {
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+.RoomSingle-galery {
+    width: 60%;
+    height:inherit;
+    background-color: blue;
+}   

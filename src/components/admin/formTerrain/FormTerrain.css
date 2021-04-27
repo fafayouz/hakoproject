@@ -1,0 +1,22 @@
+.formterrain-container {
+    width: 90%;
+    height: 95%;
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    overflow-y: auto;
+}
+.card-delete-- {
+    width: 28%;
+    height: 48%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    margin: 1.2rem;
+
+
+}
